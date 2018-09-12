@@ -1,0 +1,42 @@
+_repo: The-Lover-s-Baedeker-and-Guide-to-Arcady_51189
+_version: 0.0.1
+contributor:
+  illustrators:
+  - agent_name: Hood, George Washington
+    aliases:
+    - Hood, G. W.
+    - Hood, George W.
+    birthdate: 1869
+    deathdate: 1949
+    gutenberg_agent_id: '8642'
+    url: http://www.gutenberg.org/2009/agents/8642
+  - agent_name: Blashfield, Albert Dodd
+    alias: Blashfield, A. D.
+    birthdate: 1860
+    deathdate: 1920
+    gutenberg_agent_id: '46283'
+    url: http://www.gutenberg.org/2009/agents/46283
+creator:
+  author:
+    agent_name: Wells, Carolyn
+    alias: Houghton, Carolyn Wells
+    birthdate: 1862
+    deathdate: 1942
+    gutenberg_agent_id: '1060'
+    url: http://www.gutenberg.org/2009/agents/1060
+    wikipedia: https://en.wikipedia.org/wiki/Carolyn_Wells
+description: ''
+gutenberg_issued: '2016-02-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51189'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Love'
+- GITenberg
+title: The Lover's Baedeker and Guide to Arcady
+url: http://www.gutenberg.org/ebooks/51189
