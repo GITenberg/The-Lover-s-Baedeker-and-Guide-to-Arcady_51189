@@ -1,5 +1,5 @@
 _repo: The-Lover-s-Baedeker-and-Guide-to-Arcady_51189
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrators:
   - agent_name: Hood, George Washington
@@ -16,6 +16,9 @@ contributor:
     deathdate: 1920
     gutenberg_agent_id: '46283'
     url: http://www.gutenberg.org/2009/agents/46283
+covers:
+- cover_type: archival
+  image_path: 51189-h/images/cover.jpg
 creator:
   author:
     agent_name: Wells, Carolyn
@@ -26,6 +29,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1060
     wikipedia: https://en.wikipedia.org/wiki/Carolyn_Wells
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51189#The-Lover-s-Baedeker-and-Guide-to-Arcady
 gutenberg_issued: '2016-02-12'
 gutenberg_type: Text
 identifiers:
